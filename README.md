@@ -7,7 +7,7 @@ Blockchain Developer, DApps, DeFi, Frontend Developer
 Passionate about the decentralized future. They say coding is an art; I'm just here to add a few brushstrokes. 🎨 Lets make decentralized technology as inviting as a warm cup of tea on a rainy day. ☕️ Let's code a future where blockchain is a gentle breeze, not a storm. 🕊️
 
 * 🌍  I'm based in Malaysia & Singapore
-* 🖥️  See my portfolio at [My LinkedIn](http://www.linkedin.com/in/rionng/)
+* 🖥️  See my portfolio at 
 * ✉️  You can contact me at [rionvui502@gmail.com](mailto:rionvui502@gmail.com)
 * 🧠  I'm learning Everything
 * 🤝  I'm open to collaborating on Projects
