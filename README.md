@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Blockchain Developer, DApps, DeFi, Frontend Developer
 -----------------------------------------------------
 
-Passionate about the decentralized future. They say coding is an art; I'm just here to add a few brushstrokes. 🎨 Lets make decentralized technology as inviting as a warm cup of tea on a rainy day. ☕️ Let's code a future where blockchain is a gentle breeze, not a storm. 🕊️
+Passionate about the decentralized future.
+
+They say coding is an art; I'm just here to add a few brushstrokes. 🎨
+
+Lets make decentralized technology as inviting as a warm cup of tea on a rainy day. ☕️
+
+Let's code a future where blockchain is a gentle breeze, not a storm. 🕊️
 
 * 🌍  I'm based in Malaysia & Singapore
 * 🖥️  See my portfolio at 
