@@ -8,7 +8,7 @@ Passionate about the decentralized future. They say coding is an art; I'm just h
 
 * 🌍  I'm based in Malaysia & Singapore
 * 🖥️  See my portfolio at 
-* ✉️  You can contact me at [rionvui502@gmail.com](mailto:rionvui502@gmail.com)
+* ✉️  You can contact me at
 * 🧠  I'm learning Everything
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Let's CODE!!
