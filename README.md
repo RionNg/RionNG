@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rion Ng
 ===============================================================================================================================
 
-Blockchain Developer, DApps, DeFi, Frontend Developer
+Blockchain Developer(Application), DApps, DeFi, Frontend Developer
 -----------------------------------------------------
 
 They say coding is an art; I'm just here to add a few brushstrokes. 🎨
